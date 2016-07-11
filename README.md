@@ -8,7 +8,7 @@ Pushould is an open source project focused on realtime push notification.
 ### Getting Started
 
 ```sh
-$ git clone git@github.com:yhoshino11/pushould.git
+$ git clone git@github.com:Pushould/pushould.git
 $ cd pushould
 $ npm install --save
 $ npm start
